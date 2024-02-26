@@ -1,0 +1,122 @@
+{
+    "questions": [
+      {
+        "question": "Hver er handritshöfundur og leikstjóri myndarinnar Fullt hús (2024)?",
+        "answers": [
+          { "text": "Sigurjón Kjartansson", "correct": true },
+          { "text": "Þorvaldur Davíð", "correct": false },
+          { "text": "Björn Hlynur", "correct": false },
+          { "text": "Þorsteinn Bachmann", "correct": false }
+        ]
+      },
+      {
+        "question": "Hver leikur aðalkarlhlutverkið í myndinni Poor Things (2023)?",
+        "answers": [
+          { "text": "Mark Ruffalo", "correct": true },
+          { "text": "Tom Hanks", "correct": false },
+          { "text": "Chris Evans", "correct": false },
+          { "text": "Ryan Gosling", "correct": false }
+        ]
+      },
+      {
+        "question": "Hver leika tvö aðalhlutverkin í myndinni Anyone But You (2023)?",
+        "answers": [
+          { "text": "Sydney Sweeney og Glen Powell", "correct": true },
+          { "text": "Emma Stone og Ryan Reynolds", "correct": false },
+          { "text": "Jennifer Lawrence og Bradley Cooper", "correct": false },
+          { "text": "Dakota Johnson og Chris Pine", "correct": false }
+        ]
+      },
+      {
+        "question": "Hver leikur aðalhlutverkið í myndinni The Iron Claw (2023)",
+        "answers": [
+          { "text": "Zac Efron", "correct": true },
+          { "text": "Robert Pattinson", "correct": false },
+          { "text": "Tom Holland", "correct": false },
+          { "text": "Chris Hemsworth", "correct": false }
+        ]
+      },
+      {
+        "question": "Ný mynd um Mean Girls var frumsýnd ekki fyrir svo löngu og er byggð á söngleikaútgáfunni af fyrri myndinni sem kom út árið 2004. Sama konan skrifaði handritið að báðum myndunum, hvað heitir hún?",
+        "answers": [
+          { "text": "Tina Fey", "correct": true },
+          { "text": "Amy Poehler", "correct": false },
+          { "text": "Mindy Kaling", "correct": false },
+          { "text": "Kristen Wiig", "correct": false }
+        ]
+      },
+      {
+        "question": "Hver leikur Argylle í myndinni Argylle (2024)?",
+        "answers": [
+          { "text": "Henry Cavill", "correct": true },
+          { "text": "Tom Cruise", "correct": false },
+          { "text": "Brad Pitt", "correct": false },
+          { "text": "Chris Pratt", "correct": false }
+        ]
+      },
+      {
+        "question": "Hver léku tvö helstu aðalhlutverkin í myndinni How to Lose a Guy in 10 Days (2003)?",
+        "answers": [
+          { "text": "Kate Hudson og Matthew McConaughey", "correct": true },
+          { "text": "Reese Witherspoon og Ryan Reynolds", "correct": false },
+          { "text": "Jennifer Aniston og Ben Affleck", "correct": false },
+          { "text": "Anne Hathaway og Bradley Cooper", "correct": false }
+        ]
+      },
+      {
+        "question": "Hver lék aðalkvennhlutverkið í The Switch (2010)?",
+        "answers": [
+          { "text": "Jennifer Aniston", "correct": true },
+          { "text": "Sandra Bullock", "correct": false },
+          { "text": "Julia Roberts", "correct": false },
+          { "text": "Cameron Diaz", "correct": false }
+        ]
+      },
+      {
+        "question": "Hver lék aðalkarlhlutverkið í Hot Tub Time Machine (2010)?",
+        "answers": [
+          { "text": "John Cusack", "correct": true },
+          { "text": "Steve Carell", "correct": false },
+          { "text": "Adam Sandler", "correct": false },
+          { "text": "Will Ferrell", "correct": false }
+        ]
+      },
+      {
+        "question": "Hver lék aðalkvennhlutverkið í What Lies Beneath (2000)?",
+        "answers": [
+          { "text": "Michelle Pfeiffer", "correct": true },
+          { "text": "Nicole Kidman", "correct": false },
+          { "text": "Halle Berry", "correct": false },
+          { "text": "Jodie Foster", "correct": false }
+        ]
+      },
+      {
+        "question": "Hver lék aðalkarlhlutverkið í American Psycho (2000)?",
+        "answers": [
+          { "text": "Christian Bale", "correct": true },
+          { "text": "Brad Pitt", "correct": false },
+          { "text": "Leonardo DiCaprio", "correct": false },
+          { "text": "Tom Cruise", "correct": false }
+        ]
+      },
+      {
+        "question": "Hvað heitir ‚nýjasta‘ James Bond myndin sem kom út árið 2021?",
+        "answers": [
+          { "text": "No Time to Die", "correct": true },
+          { "text": "Skyfall", "correct": false },
+          { "text": "Spectre", "correct": false },
+          { "text": "Casino Royale", "correct": false }
+        ]
+      },
+      {
+        "question": "Hvað heitir persónan sem Will Ferrell lék í myndinni Elf, einni vinsælustu jólamynd seinni ára?",
+        "answers": [
+          { "text": "Buddy (William Hobbs)", "correct": true },
+          { "text": "Elfie (Elisabeth Elf)", "correct": false },
+          { "text": "Santa's Little Helper (Timothy McElroy)", "correct": false },
+          { "text": "Jingles (Jack Johnson)", "correct": false }
+        ]
+      }
+    ]
+  }
+  
